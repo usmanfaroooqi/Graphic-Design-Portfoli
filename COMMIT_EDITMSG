@@ -1,9 +1,9 @@
-Add a way for users to download your resume from the website
+Improve error handling and upload reliability for portfolio management
 
-Add a resume download button to the Hero section and Navbar, and place the resume PDF in the public folder.
+Updates the storage upload method to `uploadBytes`, adds detailed error messages for Firestore and Storage issues, and includes improved error handling during repository creation.
 
 Replit-Commit-Author: Agent
-Replit-Commit-Session-Id: 7530eb16-60cb-453d-a778-8be27801156d
+Replit-Commit-Session-Id: 430a9a24-147b-44ad-ac34-8e0d84f7fafe
 Replit-Commit-Checkpoint-Type: full_checkpoint
-Replit-Commit-Event-Id: 39c77bff-ecba-4572-8597-1af942535df9
-Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/7d4ef009-e1c8-493e-a45a-65a8208a1ccf/7530eb16-60cb-453d-a778-8be27801156d/NdWN9kJ
+Replit-Commit-Event-Id: 0f630c17-5018-4809-8290-8f8d0ee41f36
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/9a24685b-583b-439f-8c08-d95cc7aac8ce/430a9a24-147b-44ad-ac34-8e0d84f7fafe/UhRPHMY
